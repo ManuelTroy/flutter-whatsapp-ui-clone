@@ -1,21 +1,30 @@
-## Build the WhatsApp UI using Flutter 
+# Whatsapp-UI Android 
+  A perfect Whatsapp UI replica for developers ❤️ now available with dark theme
+    
+## ScreenShots
 
-This repository contains the code from my series 'Building the Whatsapp UI using Flutter'. 
+<img height=550 width=275 src="https://github.com/usman18/WhatsappUI-Android/blob/master/Screenshots/Whatsapp1.JPG"><img height=550 width=275 src="https://github.com/usman18/WhatsappUI-Android/blob/master/Screenshots/Whatsapp2.JPG" hspace=24/><img height=550 width=275 src="https://github.com/usman18/WhatsappUI-Android/blob/master/Screenshots/Whatsapp3.JPG"/> 
 
-To get started, clone the repo then run flutter run
-```bash
-$ git clone https://github.com/Nash0x7E2/flutter-whatsapp-ui-clone
-````
+<br><br>
 
-```bash
-$ cd flutter-whatsapp-ui-clone && flutter run 
-````
+<img height=550 width=275 src="https://github.com/usman18/WhatsappUI-Android/blob/master/Screenshots/WD1.JPG"><img height=550 width=275 src="https://github.com/usman18/WhatsappUI-Android/blob/master/Screenshots/WD2.JPG" hspace=24/><img height=550 width=275 src="https://github.com/usman18/WhatsappUI-Android/blob/master/Screenshots/WD3.JPG"/> 
 
+<br>
+
+<img height=550 width=300 hspace=120 src="https://github.com/usman18/WhatsappUI-Android/blob/master/Screenshots/ProfileDialogWhite.gif"><img height=550 width=300 src="https://github.com/usman18/WhatsappUI-Android/blob/master/Screenshots/ProfileDialogDark.gif">
 
 
-The written post can be found at https://medium.com/@Nash0x7E2/
+<br><br>
 
-Part 1 :  https://medium.com/@Nash0x7E2/building-whatsapp-ui-with-flutter-io-and-dart-1bb1e83e7439
+## Contributions
+Contributions are always welcome. Please fork this repository and contribute using pull requests. The pull requests will be thoroughly assessed and if found significant will be accepted.
 
-Part 2 : https://medium.com/@Nash0x7E2/building-whatsapp-ui-with-flutter-part-2-the-chat-list-ad6e5fce5ba1 
-For part two, checkout the tut-2 branch
+
+## Lets become friends
+- [Medium](https://medium.com/@usman18)
+- [Instagram](https://www.instagram.com/usman__khan18/)
+- [Twitter](https://twitter.com/khan_usman_18)
+- [LinkedIn](https://www.linkedin.com/in/usman-khan-7b04b1138)
+- [Github](https://github.com/usman18)
+
+My email : uk32971@gmail.com
